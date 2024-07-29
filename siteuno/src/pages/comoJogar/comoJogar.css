@@ -1,0 +1,51 @@
+body {
+    background-color: #fd1717c9; 
+    font-family: Arial, sans-serif;
+    color: #f0efef; 
+    margin: 0;
+    padding: 0;
+    
+  }.comojogar {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+
+  }.titulo h1 {
+    text-align: center;
+    color: rgb(255, 255, 0)
+
+  }.paragrafo1, 
+    .paragrafo2,
+   .paragrafo3, 
+   .paragrafo4, 
+   .paragrafo6, 
+   .paragrafo8, 
+   .paragrafo10, 
+   .paragrafo12, 
+   .paragrafo14, 
+   .paragrafo16 {
+    background-color: rgb(133, 13, 13); 
+    border-left: 5px solid #fbc02d; 
+    margin-bottom: 10px;
+
+  }.localimg1, .localimg2, .localimg3, .localimg4, .localimg5, .localimg6, .localimg7 {
+    text-align: center;
+    margin: 20px 0;
+
+  }.localimg1 img, .localimg2 img, .localimg3 img, .localimg4 img, .localimg5 img, .localimg6 img, .localimg7 img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #d32f2f; 
+    border-radius: 10px;
+
+  }.paragrafo5, .paragrafo7, .paragrafo9, .paragrafo11, .paragrafo13, .paragrafo15 {
+    text-align: center;
+    color: #d32f2f; 
+    margin-top: 20px;
+
+  }.paragrafo5 h2, .paragrafo7 h2, .paragrafo9 h2, .paragrafo11 h2, .paragrafo13 h2, .paragrafo15 h2 {
+    background-color: #fbc02d; 
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
