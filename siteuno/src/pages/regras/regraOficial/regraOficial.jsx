@@ -120,9 +120,6 @@ export default function RegrasOficial() {
                 Jogo por pontuação: o vencedor é o primeiro jogador a alcançar 500 pontos ou menos.
                 Jogo por eliminação: o vencedor é o último jogador a sobrar com cartas na mão.
             </p>
-
-
-
         </div>
     )
 }
