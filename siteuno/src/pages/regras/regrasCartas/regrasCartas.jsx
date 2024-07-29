@@ -5,11 +5,12 @@ import carta3 from '/carta3.jpg'
 import carta4 from '/carta4.jpg'
 import carta5 from '/carta5.jpg'
 import carta6 from '/carta6.jpg'
-
+import HeaderNav from '../../../components/header/header'
 
 export default function RegrasCartas() {
     return(
         <>
+        <HeaderNav />
             <section className="cartas-header">
                 <h1>Cartas do Jogo</h1>
                 <h3>

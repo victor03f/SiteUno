@@ -1,9 +1,11 @@
 import { Link } from 'react-router-dom';
 import './regras.css';
+import HeaderNav from '../../components/header/header';
 
 export default function Regras() {
     return (
         <>
+        <HeaderNav />
             <section className="regras-header">
                 <h1>Regras do Jogo Uno</h1>
             </section>
